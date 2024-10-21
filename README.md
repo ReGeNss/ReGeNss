@@ -1,4 +1,4 @@
 Student: KPI / IM-41
-Languages: Dart, C#
+Languages: Dart, js&ts
 Telegram: @ReGenSe
 Mail: regens.global@gmail.com
